@@ -4,5 +4,8 @@ void main(List<String> arguments) {
   //generics.executeCachedData();
   //generics.executeLinkedList();
   //generics.executeBinarySearchTree();
-  generics.executeGraph();
+  //generics.executeGraph();
+  //generics.executeBinaryTree();
+  //generics.executeLinearSearch();
+  generics.executeBinarySearch();
 }
