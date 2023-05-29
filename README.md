@@ -16,17 +16,18 @@ To use this collection in your Dart project, follow these steps:
 2. Import the desired generic class in your Dart file:
 
     ```dart
-    import 'package:generics/generics.dart' as generics;
+    import 'package:generics/generics.dart';
     ```
 ## Usage
 
 Each generic class serves a specific purpose. For example:
 
 ```dart
-  final LinkedList<int> linkedList = LinkedList<int>();
+void executeLinkedList() {
+  LinkedList<int> linkedList = LinkedList<int>();
   linkedList.insert(11);
   linkedList.insert(22);
   linkedList.insert(30);
-
-  print('${linkedList.find(22)?.prev?.data}');  // 11
+  print('${linkedList.find(22)?.prev?.data ?? -1}');
+}
 ```
