@@ -1,0 +1,1 @@
+export 'package:generics/helper/result/example/example.dart';

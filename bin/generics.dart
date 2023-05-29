@@ -11,5 +11,6 @@ void main(List<String> arguments) {
   //generics.executeFibonacciSearch();
   //generics.executeListWrapper();
   //generics.executeStackWrapper();
-  generics.executeQueueWrapper();
+  //generics.executeQueueWrapper();
+  generics.executeResult();
 }
