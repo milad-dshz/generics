@@ -6,7 +6,7 @@ This repository is a comprehensive collection of generic classes implemented in 
 
 ## Installation
 
-To use this collection in your Dart project, follow these steps:
+To use this collection in your project, follow these steps:
 
 1. Clone this repository to your local machine:
 
