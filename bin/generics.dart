@@ -7,5 +7,6 @@ void main(List<String> arguments) {
   //generics.executeGraph();
   //generics.executeBinaryTree();
   //generics.executeLinearSearch();
-  generics.executeBinarySearch();
+  //generics.executeBinarySearch();
+  generics.executeFibonacciSearch();
 }
