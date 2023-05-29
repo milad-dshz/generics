@@ -23,9 +23,5 @@ To use this collection in your Dart project, follow these steps:
 Each generic class serves a specific purpose. For example:
 
 ```dart
-import 'package:dart_generic_classes/stack.dart';
-
-void main(List<String> arguments) {
   generics.executeCachedData();
-}
 ```
