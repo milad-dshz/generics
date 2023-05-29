@@ -28,5 +28,5 @@ Each generic class serves a specific purpose. For example:
   linkedList.insert(22);
   linkedList.insert(30);
 
-  print('${linkedList.find(22)?.prev?.data}');
+  print('${linkedList.find(22)?.prev?.data}');  // 11
 ```
