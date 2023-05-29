@@ -1,5 +1,11 @@
-export 'data_caching/index.dart';
-export 'data_structure/index.dart';
-export 'search_algorithm/index.dart';
-export 'data_structure_extension/index.dart';
-export 'helper/index.dart';
+
+library;
+
+export 'src/data_caching/index.dart';
+export 'src/data_structure/index.dart';
+export 'src/data_structure_extension/index.dart';
+export 'src/helper/index.dart';
+export 'src/search_algorithm/index.dart';
+
+
+
