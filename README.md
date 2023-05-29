@@ -25,11 +25,9 @@ To use this collection in your project, follow these steps:
 Each generic class serves a specific purpose. For example:
 
 ```dart
-void executeLinkedList() {
   LinkedList<int> linkedList = LinkedList<int>();
   linkedList.insert(11);
   linkedList.insert(22);
   linkedList.insert(30);
   print('${linkedList.find(22)?.prev?.data}'); //11
-}
 ```
