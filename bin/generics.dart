@@ -8,5 +8,8 @@ void main(List<String> arguments) {
   //generics.executeBinaryTree();
   //generics.executeLinearSearch();
   //generics.executeBinarySearch();
-  generics.executeFibonacciSearch();
+  //generics.executeFibonacciSearch();
+  //generics.executeListWrapper();
+  //generics.executeStackWrapper();
+  generics.executeQueueWrapper();
 }
