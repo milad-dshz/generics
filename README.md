@@ -15,7 +15,7 @@ To use this collection in your project, follow these steps:
     ```sh
     git clone https://github.com/thehelmsdeep/generics.git
     ```
-2. Import the desired generic class in your Dart file:
+2. Import the desired generic class in your file:
 
     ```dart
     import 'package:generics/generics.dart';
