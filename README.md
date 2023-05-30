@@ -10,7 +10,7 @@ To use this collection in your project, follow these steps:
 
 
 
-1. Clone this repository to your local machine:
+1. Clone this repository:
 
     ```sh
     git clone https://github.com/thehelmsdeep/generics.git
